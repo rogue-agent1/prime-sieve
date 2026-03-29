@@ -1,11 +1,3 @@
-# prime-sieve
-
-Prime number algorithms (Sieve of Eratosthenes, Miller-Rabin, factorization).
-
-## Usage
-
-```bash
-python3 prime_sieve.py test
-```
-
-Zero dependencies. Python 3.8+.
+# prime_sieve
+Prime utilities — sieve, primality test, factorization, nth prime.
+Single-file Python, zero dependencies.
