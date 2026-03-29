@@ -1,11 +1,11 @@
-# prime-sieve
+# prime_sieve
 
-Prime number sieve and utilities.""".
+prime_sieve - Prime generation: Sieve of Eratosthenes, Atkin, segmented.
 
-Zero dependencies. Python 3.8+.
+Zero-dependency, single-file Python CLI.
 
 ## Usage
 
 ```bash
-python3 prime_sieve.py --help
+python3 prime_sieve.py
 ```
